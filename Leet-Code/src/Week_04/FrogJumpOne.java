@@ -1,7 +1,7 @@
 package Week_04;
 
 public class FrogJumpOne {
- 
+  
 	
 	public static int solution(int X,int[] A)
 	{
